@@ -1,10 +1,9 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
+title: Blomley Docs
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+Simple Documentation Website
 
